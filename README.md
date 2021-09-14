@@ -1,12 +1,12 @@
-## Olá! Meu nome é Jorge <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+## Hi! My name is Jorge <sub><sup>| Olá! Meu nome é Jorge</sup></sub> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-- Sou desenvolvedor FullStack 💻📱
-- Estudando Laravel 🙇🏻‍♂️
+- 💻 I currently work as a Full Stack developer <sub><sup>| Atualmente trabalho como desenvolvedor FullStack </sup></sub>
+- 📖 I have started my studies at Framework Laravel recentily <sub><sup>| Comecei meus estudos na Framework Laravel recentemente </sup></sub>
 
 <div>
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/Jogaridu">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jogaridu&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jogaridu&layout=compact&langs_count=7&theme=prussian"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jogaridu&layout=compact&langs_count=5&theme=prussian"/>
 </div>
   
  <div style="display: inline_block"><br>
@@ -15,9 +15,10 @@
   <img align="center" alt="Jogaridu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jogaridu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jogaridu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Jogaridu-Php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
-  <img align="center" alt="Jogaridu-Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
+  <img align="center" alt="Jogaridu-Php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
+  <img align="center" alt="Jogaridu-Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
   <img align="center" alt="Jogaridu-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  <img align='right' alt="Jogaridu-Home-Office" width="130" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 </div>
   
   ##
