@@ -1,7 +1,7 @@
 ## Hi! My name is Jorge <sub><sup>| Olá! Meu nome é Jorge</sup></sub> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 - 💻 I currently work as a Full Stack developer <sub><sup>| Atualmente trabalho como desenvolvedor FullStack </sup></sub>
-- 📖 I have started my studies at Framework Laravel recently <sub><sup>| Comecei meus estudos na Framework Laravel recentemente </sup></sub>
+- 📖 I have started my studies at Framework Laravel recently <sub><sup>| Comecei meus estudos no Framework Laravel recentemente </sup></sub>
 
 <div>
   <a href="https://github.com/Jogaridu">
