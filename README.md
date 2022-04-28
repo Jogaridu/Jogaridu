@@ -1,7 +1,6 @@
 ## Hi! My name is Jorge <sub><sup>| Olá! Meu nome é Jorge</sup></sub> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 - 💻 I currently work as a Full Stack developer <sub><sup>| Atualmente trabalho como desenvolvedor FullStack </sup></sub>
-- 📖 I have started my studies at Framework Laravel recently <sub><sup>| Comecei meus estudos no Framework Laravel recentemente </sup></sub>
 
 <div>
   <a href="https://github.com/Jogaridu">
@@ -16,7 +15,6 @@
   <img align="center" alt="Jogaridu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jogaridu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Jogaridu-Php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
-  <img align="center" alt="Jogaridu-Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
   <img align="center" alt="Jogaridu-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
   <img align='right' alt="Jogaridu-Home-Office" width="130" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 </div>
